@@ -1,0 +1,1 @@
+This project, "Rainfall Prediction Accuracy Enhancement Using Machine Learning," aims to improve rainfall forecasting using machine learning techniques. It includes code, datasets, and Jupyter Notebooks for data preprocessing, model training, and evaluation. The focus is on applying advanced algorithms to enhance prediction accuracy.
